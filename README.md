@@ -30,5 +30,5 @@ You are required to run this Appimage with admin/sudo privileges.
 
 For example:-
 ```
-sudo ./Elan_0c00_support-x86_64.AppImage
+sudo ./Dragonism_K617-x86_64.AppImage
 ```
