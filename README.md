@@ -22,9 +22,9 @@ xhost +local:root
 ```
 
 ## Downloads
-[Link!]()
+[Link!](https://github.com/JQx-999/Dragonism-K617-Fizz-Unofficial-/releases/download/v0.1/Dragonism_K617-x86_64.AppImage)
 
-[Releases]()
+[Releases](https://github.com/JQx-999/Dragonism-K617-Fizz-Unofficial-/releases)
 
 You are required to run this Appimage with admin/sudo privileges.
 
