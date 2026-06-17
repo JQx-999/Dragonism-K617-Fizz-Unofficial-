@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="/qt/qml/Dragonism/">
+    <file alias="assets/images/application-exit-symbolic.svg">/home/JQX/Dragonism/assets/images/application-exit-symbolic.svg</file>
+    <file alias="assets/images/keyboard.svg">/home/JQX/Dragonism/assets/images/keyboard.svg</file>
+    <file alias="fonts/JetBrainsMono-Italic-VariableFont_wght.ttf">/home/JQX/Dragonism/fonts/JetBrainsMono-Italic-VariableFont_wght.ttf</file>
+    <file alias="fonts/JetBrainsMono-VariableFont_wght.ttf">/home/JQX/Dragonism/fonts/JetBrainsMono-VariableFont_wght.ttf</file>
+    <file alias="fonts/mont.ttf">/home/JQX/Dragonism/fonts/mont.ttf</file>
+    <file alias="fonts/Montserrat-Italic-VariableFont_wght.ttf">/home/JQX/Dragonism/fonts/Montserrat-Italic-VariableFont_wght.ttf</file>
+    <file alias="assets/images/theme.png">/home/JQX/Dragonism/assets/images/theme.png</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appDragonism_FILE /home/JQX/Dragonism/build/Desktop_Qt_6_11_1-Release/appDragonism)
+set(__QT_DEPLOY_TARGET_appDragonism_TYPE EXECUTABLE)

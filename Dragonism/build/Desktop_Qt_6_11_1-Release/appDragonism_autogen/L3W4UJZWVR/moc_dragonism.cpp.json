@@ -1,0 +1,120 @@
+{
+    "classes": [
+        {
+            "className": "DragWorker",
+            "lineNumber": 10,
+            "object": true,
+            "qualifiedClassName": "DragWorker",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "lineNumber": 21,
+                    "name": "scriptSuccess",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "lineNumber": 22,
+                    "name": "scriptError",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "public",
+                    "index": 2,
+                    "lineNumber": 15,
+                    "name": "run",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        },
+        {
+            "className": "DragWrapper",
+            "lineNumber": 27,
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "m",
+                            "type": "int"
+                        },
+                        {
+                            "name": "s",
+                            "type": "int"
+                        },
+                        {
+                            "name": "b",
+                            "type": "int"
+                        }
+                    ],
+                    "index": 3,
+                    "lineNumber": 35,
+                    "name": "call",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "lineNumber": 29,
+                    "name": "running",
+                    "notify": "runningChanged",
+                    "override": false,
+                    "read": "isRunning",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false,
+                    "virtual": false
+                }
+            ],
+            "qualifiedClassName": "DragWrapper",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "lineNumber": 61,
+                    "name": "scriptSuccess",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "lineNumber": 62,
+                    "name": "scriptError",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 2,
+                    "lineNumber": 63,
+                    "name": "runningChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "dragonism.h",
+    "outputRevision": 69
+}

@@ -1,0 +1,9 @@
+--resource
+/home/JQX/Dragonism/build/Desktop_Qt_6_11_1-Release/.qt/rcc/qmake_Dragonism.qrc
+--resource
+/home/JQX/Dragonism/build/Desktop_Qt_6_11_1-Release/.qt/rcc/appDragonism_raw_qml_0.qrc
+--resource
+/home/JQX/Dragonism/build/Desktop_Qt_6_11_1-Release/.qt/rcc/appDragonism_raw_res_0.qrc
+/qt/qml/Dragonism/Main.qml
+/qt/qml/Dragonism/about.qml
+/qt/qml/Dragonism/MainMenu.qml

@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/qt/qml/Dragonism/">
+    <file alias="Main.qml">/home/JQX/Dragonism/Main.qml</file>
+    <file alias="about.qml">/home/JQX/Dragonism/about.qml</file>
+    <file alias="MainMenu.qml">/home/JQX/Dragonism/MainMenu.qml</file>
+  </qresource>
+</RCC>
+

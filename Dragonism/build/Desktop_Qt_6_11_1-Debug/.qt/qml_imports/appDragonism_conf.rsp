@@ -1,0 +1,15 @@
+-rootPath
+/home/JQX/Dragonism
+-cmake-output
+-output-file
+/home/JQX/Dragonism/build/Desktop_Qt_6_11_1-Debug/.qt/qml_imports/appDragonism_conf.cmake
+-importPath
+/home/JQX/Dragonism/build/Desktop_Qt_6_11_1-Debug
+-importPath
+/home/JQX/Dragonism/build/Desktop_Qt_6_11_1-Debug/Dragonism
+-importPath
+/home/JQX/Qt/6.11.1/gcc_64/qml
+-qrcFiles
+/home/JQX/Dragonism/build/Desktop_Qt_6_11_1-Debug/.qt/rcc/qmake_Dragonism.qrc
+/home/JQX/Dragonism/build/Desktop_Qt_6_11_1-Debug/.qt/rcc/appDragonism_raw_qml_0.qrc
+/home/JQX/Dragonism/build/Desktop_Qt_6_11_1-Debug/.qt/rcc/appDragonism_raw_res_0.qrc

@@ -1,0 +1,7 @@
+module Dragonism
+typeinfo appDragonism.qmltypes
+prefer :/qt/qml/Dragonism/
+Main 254.0 Main.qml
+MainMenu 254.0 MainMenu.qml
+depends QtQuick
+

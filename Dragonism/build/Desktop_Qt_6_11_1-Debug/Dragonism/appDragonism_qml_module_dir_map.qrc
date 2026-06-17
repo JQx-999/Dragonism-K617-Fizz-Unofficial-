@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/Dragonism">/home/JQX/Dragonism/build/Desktop_Qt_6_11_1-Debug/Dragonism</file>
+
+  </qresource>
+</RCC>
